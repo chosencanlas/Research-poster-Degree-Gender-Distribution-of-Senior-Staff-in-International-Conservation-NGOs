@@ -6,4 +6,4 @@ Led research and information design, and conducted primary research with a team 
 
 Presentation was created using Google Slides
 
-Visualizations were created with Tableau, Microsoft Excel and Photoshop.
+Visualizations were created with Tableau, Microsoft Excel and Adobe Photoshop.
